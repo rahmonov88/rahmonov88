@@ -4,6 +4,7 @@ import java.util.Arrays;
 
 public class ArrayUtil {
 
+
     public static int sumOfArray ( int [] arr) {
         int sum = 0;
 
