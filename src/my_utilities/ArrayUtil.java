@@ -84,6 +84,7 @@ public class ArrayUtil {
     }
 
 
+
     public static String [] addElementInArr (String [] originalArr, String str) {
         String [] newArr = new String [originalArr.length + 1];
         for (int i = 0; i < originalArr.length; i++) {
