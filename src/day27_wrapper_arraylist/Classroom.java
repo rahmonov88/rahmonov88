@@ -45,6 +45,7 @@ public class Classroom {
                 System.out.println("Each Character: " + each.charAt(i));
             }
             System.out.println("---------------");
+
         }
 
     }
