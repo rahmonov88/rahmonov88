@@ -12,6 +12,7 @@ import java.util.Scanner;
 
         www.google.com
 
+
         --> google
      */
 public class Website {
