@@ -10,7 +10,6 @@ public class CountNumbers {
         }
         System.out.println("Total is: " + sum);
     }
-
     // can you write the same method to return the sum
     public static int getSum (int number) { // 5 -- > 0+1+2+3+4+5 -- > 15
         int sum = 0;
@@ -19,7 +18,6 @@ public class CountNumbers {
         }
         return sum;
     }
-
     public static void main(String[] args) {
         count(5);
         count(6);
